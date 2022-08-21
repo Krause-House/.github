@@ -2,6 +2,8 @@
 
 If you want to get involved please check out the [Contributor Guide]().
 
+Our [Calendar](https://calendar.google.com/calendar/u/0?cid=c29idmgxczcwMGM3M3JqMWZuNmZiMzJlamNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 - **Standups:** Daily 11 AM EST
 - **Weekly Retrospectives:** Fridays 4 PM EST
 - **Synchronous Hours:** MWF 11 AM - 5 PM EST
