@@ -1,8 +1,41 @@
-## Krause House Dev Contributor Guide
+## Krause House Product Team
 
-We organize our work around a priority queue of [Core Problems](https://www.notion.so/krausehousework/1c666b2efe204bec9a847ae56724b7de?v=5c085b44b97e4f41bc133769d687ea8a).  
+If you want to get involved please check out the [Contributor Guide]().
 
-If you're not a dev, but are interested in contributing to product direction and discovery, feel free to join our **Problem Syncs**.
+- **Standups:** Daily 11 AM EST
+- **Weekly Retrospectives:** Fridays 4 PM EST
+- **Synchronous Hours:** MWF 11 AM - 5 PM EST
+
+## Current Milestone
+We organize our work around a list of [**Core Problems**](). A **milestone** is a set of related **core problems**.  A **milestone** complete when it's _milestone tests_ are passed via user testing.
+
+
+<details>
+<summary>Jerry's are unaware of key resources..</summary>
+
+### Status: **Fail**
+
+> **Test**: 
+> Ask Jerry’s to identify key resources / places.
+>
+> **Passing iff** 
+> 1. Jerry can show me where to find everything, 
+> 2. and explain what are the most important.
+
+</details>
+
+<details>
+<summary>Jerry's have a hard time finding things.</summary>
+
+### Status: **Fail** 
+
+> **Test**: 
+> Ask Jerry’s to navigate to contributor dashboard, a specific teams page, voting, treasury.
+>
+> **Passing iff**
+> 1. Jerry can find and show me how to find anything in the DAO.
+</details>
+
 
 ## Resources
 
