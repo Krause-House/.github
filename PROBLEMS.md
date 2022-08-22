@@ -1,19 +1,25 @@
 ## Current Milestone
 
+---
+
 ### Jerry’s are unaware of key resources.
- > Status: **Fail**
+> Status: **Fail**
+>
+> Pending Solution: [HouseOS Milestone 1](https://github.com/Krause-House/houseOS)
 
 **Test**: 
-> Ask Jerry’s to identify key resources / places.
+- Ask Jerry’s to identify key resources / places.
 
 **Passing iff** 
-> 1. Jerry can show me where to find everything, 
-> 2. and explain what are the most important.
+- [ ] Jerry can show me where to find everything, 
+- [ ] and explain what are the most important.
 
-
+---
 
 ### Jerry’s have a hard time finding things.
 > Status: **Fail** 
+> 
+> Pending Solution: [HouseOS Milestone 1](https://github.com/Krause-House/houseOS)
 
 **Test**: 
 > Ask Jerry’s to navigate to contributor dashboard, a specific teams page, voting, treasury.
