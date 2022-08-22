@@ -1,6 +1,6 @@
 # Trik User Interview Notes
 
-[Link to Video]()
+[Link to Video](https://www.youtube.com/watch?v=vxbh3kCgSJM)
 
 Persona:
 
