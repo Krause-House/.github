@@ -1,7 +1,5 @@
 # Trik User Interview Notes
 
-[Link to Video](https://www.youtube.com/watch?v=vxbh3kCgSJM)
-
 Persona:
 
 - mid-term contributor (4 months),
