@@ -13,6 +13,11 @@
 3. What do you want to learn or work on moving forwards?
 
 
+Eli
+1. Learned
+  - Learned the hard way that constant communication really matters.  Lot of frustration from folks caused by my not communicating what I've been working on and why.
+  - User interviews are an immensely high leverage use of time.  Really understand now to focus in on "process" over "thoughts".  Understand what the user does and why, not what they think.  Establish baselines so we can **measure** what our tools do.
+
 ### Team Retro
 1. What did we do well?
 2. What can we do better?
