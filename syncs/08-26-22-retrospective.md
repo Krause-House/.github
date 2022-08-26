@@ -9,7 +9,7 @@
 
 ### Personal Retro
 1. Did you have the chance to learn anything new this week?  What was it?
-2. What do you want to learn or work on moving forwards?
+2. What could you have done better?
 3. Priorities for the week ahead?
 
 
@@ -20,7 +20,18 @@ Eli
   - Time well spent is mostly "via negativa" eliminating low-leverage work, and we can do that for each other in these standups via suggestions and feedback
   - Some basic learning of GH action flows and managing permissions / process on PRs
   - Set up analytics on site, am curious to explore this more systematically
+  - Played around with a basic monorepo, that was interesting
  
+2. Could have done better...
+  - Should have taken time quicker to pair with Trik on a basic first issue, left him hanging a bit
+  - More intentional introduction for test users.  I kind of just threw a link at Mario and Lewwwk without much strategy or intention
+
+3. Week ahead
+  - People seem to use mobile more than I thought (although it could be mostly for chat).  Either way, I think I'm best focusing on that before introducing new features
+  - Implement feedback from user interviews
+  - Continue to user test as I iterate
+  - Make sure trik gets momentum
+  - Learn some cross browser testing, I noticed there were windows layout bugs I can't catch in my machine
 
 ### Team Retro
 1. What did we do well?
