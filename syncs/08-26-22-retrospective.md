@@ -33,6 +33,17 @@ Eli
   - Make sure trik gets momentum
   - Learn some cross browser testing, I noticed there were windows layout bugs I can't catch in my machine
 
+Greg
+1. Learned
+  - Improved on user interviews (lots of practice) which was something I've been wanting to work on for a long time. Hopefully there will continue to be chances to talk with users in the future.
+2. Could have done better...
+  - Definitely got less productive later in the week with all the drama going on
+  - I feel like I'm not adhering to the product team's original vision strictly enough? Are we truly working on the "mission critical" aspects of Krause House?
+  - Keep syncs up to date and prepare for standup ahead of time
+3. Week ahead
+  - I think I'll be doing a fair bit of thinking / writing this upcoming week. We're at a pivotal moment both as a team and as a DAO.
+
+
 ### Team Retro
 1. What did we do well?
 2. What can we do better?
